@@ -2,6 +2,10 @@
 
 Deze repository bevat oefenvragen voor een Python kennismeting.
 
+Om niet te cheaten kan je hieronder naar elke vraag navigeren en heb je geen hulp door een LSP.
+
+Voor antwoorden kan je naar de map `Antwoorden`. Uiteraard is het handig om eerst zelf de opdrachten te maken.
+
 ## Vragen
 
 ### 1. Array manipulatie
